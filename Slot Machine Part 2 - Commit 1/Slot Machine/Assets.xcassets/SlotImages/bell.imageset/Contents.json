@@ -1,0 +1,22 @@
+{
+  "images" : [
+    {
+      "filename" : "2793005_bell_christmas_father christmas_xmas_icon.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "2793005_bell_christmas_father christmas_xmas_icon-2.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
